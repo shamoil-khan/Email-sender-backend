@@ -40,7 +40,7 @@ const contact = async (req, res) => {
   <!-- Icon -->
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/shamoil-khan/Shamoil-khan-portfolio-latest/refs/heads/main/public/icon.png?token=GHSAT0AAAAAADBZDTZE24JR4MZ7VHXNMBZS2A32DDQ" alt="Company Logo" style="width: 100px; height: auto; margin-bottom: 20px;" />
+      <img src="https://shamoil-khan.vercel.app/icon.png" alt="Company Logo" style="width: 100px; height: auto; margin-bottom: 20px;" />
     </td>
   </tr>
 
