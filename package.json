@@ -1,0 +1,44 @@
+{
+  "name": "shamoil-khan-portfolio-backend",
+  "version": "1.0.0",
+  "description": "shamoil khan portfolio backend server",
+  "keywords": [
+    "Full Stack Development",
+    "Web Developer",
+    " Software Engineer",
+    " JavaScript Development",
+    " React.js Projects",
+    " Node.js Backend",
+    "MongoDB Database",
+    " HTML/CSS",
+    "Responsive Web Design",
+    "Custom Web Development",
+    "Mobile App Development",
+    "UI/UX Design",
+    "Web Application Development",
+    " Software Solutions",
+    " Shamoil",
+    " Shamoil Tech",
+    " Khan",
+    "ShamoilKhan",
+    " Shamoil Khan",
+    " Frelancer",
+    " Fiver",
+    " Imjex",
+    " Imjex Developer"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./api/index.js",
+    "start": "nodemon ./api/index.js"
+  },
+  "author": "Shamoil <shamoilkhan210@gmail.com> (https://shamoil-khan.vercel.app)",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "nodemailer": "^6.9.15",
+    "nodemon": "^3.1.4"
+  }
+}
